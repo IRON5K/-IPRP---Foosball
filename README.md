@@ -1,4 +1,3 @@
 # [IPRP] - Foosball
-Jogo de Futebol simples feito em Python (Trabalho de IPRP cadeira de 1ºano no 1 Semestre)
-
-Nota: 89,8 %
+Simple soccer game made on python ( 1 year - 1 semester )
+Grade: 89,8 %
